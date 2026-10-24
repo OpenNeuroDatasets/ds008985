@@ -1,0 +1,29 @@
+{
+  "onset": {
+    "LongName": "Event onset",
+    "Description": "Onset of event relative to first event",
+    "Units": "s"
+  },
+  "duration": {
+    "LongName": "Event duration",
+    "Description": "Duration of event",
+    "Units": "s"
+  },
+  "trial_type": {
+    "LongName": "Trial type",
+    "Description": "Categorical condition label per task"
+  },
+  "response_time": {
+    "LongName": "Response time",
+    "Description": "Subject reaction time (n/a if no response)",
+    "Units": "s"
+  },
+  "accuracy": {
+    "LongName": "Trial accuracy",
+    "Description": "1=correct, 0=incorrect; n/a for non-response trials",
+    "Levels": {
+      "0": "incorrect",
+      "1": "correct"
+    }
+  }
+}
