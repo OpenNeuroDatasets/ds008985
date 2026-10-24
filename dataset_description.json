@@ -1,5 +1,5 @@
 {
-  "Name": "Stroop and Go/No-Go: structural MRI and task events (initial partial release)",
+  "Name": "Stroop and Go/No-Go structural MRI and task events",
   "BIDSVersion": "1.9.0",
   "DatasetType": "raw",
   "Authors": [
