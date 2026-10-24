@@ -1,0 +1,10 @@
+{
+  "Name": "Stroop and Go/No-Go: structural MRI and task events (initial partial release)",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "raw",
+  "Authors": [
+    "Tongyi Zhang",
+    "Yajie Gong",
+    "Xin Zhao"
+  ]
+}
