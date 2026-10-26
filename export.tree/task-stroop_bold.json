@@ -1,0 +1,6 @@
+{
+  "TaskDescription": "颜色词Stroop任务: 红→F键, 绿→J键",
+  "RepetitionTime": 2.0,
+  "Instructions": "屏幕呈现颜色词（红/绿）。按键根据字的颜色而非词义：颜色为红色按F键，颜色为绿色按J键。尽量准确、快速反应。",
+  "CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_550b53d7dd674"
+}
