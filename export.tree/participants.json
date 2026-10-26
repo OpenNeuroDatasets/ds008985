@@ -1,0 +1,16 @@
+{
+  "participant_id": {
+    "Description": "Pseudonymous participant identifier."
+  },
+  "age": {
+    "Description": "Age at participation in years.",
+    "Units": "years"
+  },
+  "sex": {
+    "Description": "Sex recorded in participant demographics.",
+    "Levels": {
+      "M": "male",
+      "F": "female"
+    }
+  }
+}
