@@ -1,10 +1,11 @@
 {
-  "Name": "Stroop and Go/No-Go fMRI in healthy adults",
-  "BIDSVersion": "1.9.0",
-  "DatasetType": "raw",
-  "Authors": [
-    "Tongyi Zhang",
-    "Yajie Gong",
-    "Xin Zhao"
-  ]
+    "Name": "Stroop and Go/No-Go fMRI in healthy adults",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Tongyi Zhang",
+        "Yajie Gong",
+        "Xin Zhao"
+    ],
+    "License": "CC0"
 }
