@@ -1,6 +1,0 @@
-{
-  "TaskDescription": "Go/No-Go 抑制控制任务",
-  "RepetitionTime": 2.0,
-  "Instructions": "屏幕呈现字母。看到X时按空格键(Go)，看到Y时不反应(NoGo)。尽量准确、快速反应。",
-  "CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_4f24e078a85f7"
-}
